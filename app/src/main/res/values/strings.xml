@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelperAndroid</string>
+    <string name="login">SEEC Helper</string>
+    <string name="tv_username">用户名</string>
+    <string name="et_username">请输入用户名</string>
+    <string name="tv_password">密码</string>
+    <string name="et_password">请输入密码</string>
+    <string name="bt_log">登录</string>
+    <string name="bt_res">注册</string>
+</resources>
